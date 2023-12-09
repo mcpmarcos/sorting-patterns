@@ -1,9 +1,12 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Fork de um projeto acadêmico que foi o objeto deste trabalho. Consiste em um sistema que cria arrays, os ordena, calcula o tempo gasto para a execução da ordenação completa, e exibe ao cliente as métricas. 
-Durante o processo de desenvolvimento, nas tentativas de aplicar na prática os padrões de projeto notamos que um padrão pode se conectar a outros, pois durante o processo de implementar o pattern é possível visualizar caminhos para resolver problemas no entorno. 
+O objeto deste trabalho foi fazer um fork de um projeto acadêmico e refatora-lo. Consiste em um sistema que cria arrays, os ordena, calcula o tempo gasto para a execução da ordenação completa, e exibe ao cliente as métricas. Durante o processo de desenvolvimento, nas tentativas de aplicar na prática os padrões de projeto notamos que um padrão pode se conectar a outros, pois durante o processo de implementar o pattern é possível visualizar caminhos para resolver problemas no entorno. 
 Portanto, nos parece evidente que ao ampliar o repertório de padrões e aplicá-los em diferentes contextos a nossa perspectiva de possibilidades se ampliará. Até que o desenvolvedor não identifique possíveis melhorias a serem feitas, este ciclo de refatoração se repete. 
 Até aqui, foram aplicados 3 padrões de projetos específicos: Factory Method, Command, Template  Method.
+
+Aprender padrões de projeto é importante porque eles fornecem soluções comprovadas e orientadas a objetos para problemas comuns no desenvolvimento de software, percebidas como boas práticas. Utilizá-los também contribui para a manutenibilidade e escalabilidade pois seguem princípios SOLID, com separação de responsabilidades, baixo acoplamento. 
+Ao aprender e aplicar padrões de projeto, se desenvolvem habilidades valiosas, capacidade de ter mais insights que podem ser a solução para as situações mais problemáticas, capacidade ter uma noção de como está funcionando a interação dos componentes de um projeto, esse conhecimento coletivo pode contribuir positivamente para o trabalho em equipe, pois existe um vocabulário em comum. 
+Um ponto importante é a refatoração, que será presente em um ciclo interminável. Porém a ideia é ter a ciência de que mudanças ou  novas funcionalidades  de um sistema, podem forçar refatorações, separar classes e funcionalidades em outras classes.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -84,7 +87,3 @@ Fig.13(Invoker)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-Aprender padrões de projeto é importante porque eles fornecem soluções comprovadas e orientadas a objetos para problemas comuns no desenvolvimento de software, percebidas como boas práticas. Utilizá-los também contribui para a manutenibilidade e escalabilidade pois seguem princípios SOLID, com separação de responsabilidades, baixo acoplamento. 
-Ao aprender e aplicar padrões de projeto, se desenvolvem habilidades valiosas, capacidade de ter mais insights que podem ser a solução para as situações mais problemáticas, capacidade ter uma noção de como está funcionando a interação dos componentes de um projeto, esse conhecimento coletivo pode contribuir positivamente para o trabalho em equipe, pois existe um vocabulário em comum. 
-Um ponto importante é a refatoração, que será presente em um ciclo interminável. Porém a ideia é ter a ciência de que mudanças ou  novas funcionalidades  de um sistema, podem forçar refatorações, separar classes e funcionalidades em outras classes.
